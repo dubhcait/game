@@ -1,0 +1,7 @@
+.tile {
+  display: inline-flex;
+}
+
+.row {
+  display: flex;
+}
